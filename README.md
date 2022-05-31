@@ -1,6 +1,6 @@
 # Song_Popularity_Prediction
 
-#### This repository contains my solution for the beginer level machine learning hackathon hosted by MLSpace on kaggle.(https://www.kaggle.com/c/song-popularity-prediction)..
+#### This repository contains my solution for the beginer level machine learning hackathon. Below are the aims, objectives, evaluation metric, models and features explanation for this project.
 
 **Aim**: To predict the popularity of a song given features like acousticness, danceability, key, loudness, etc..
 **Objective**: To develop a predictive model that determines if a sond is popular or not.
